@@ -44,7 +44,10 @@ section {padding:2rem;}
 }
 
 .card-title{
-    margin-top:450px;
+    color:white;
+    text-align:center;
+    margin-top:20%;
+    font-weight:600
 }
 
 .card-icon{
