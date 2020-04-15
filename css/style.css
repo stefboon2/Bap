@@ -11,9 +11,18 @@ text-align: center;
 text-decoration: none;
 font-size: 15px;}
 
-  .navigation a:hover {
+.navigation a:hover {
     text-decoration: underline;
   }
+
+.navigation ul{
+    text-decoration:none;
+    list-style-type: none;
+}
+
+.navigation ul li{
+    text-decoration:none;
+}
 
 section {padding:2rem;}
 .bg-primary {background-color:white;}

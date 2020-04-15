@@ -92,6 +92,8 @@ ul{
     font-family: sofia-pro, sans-serif;
     font-weight: 300;}
 
+li{text-decoration:none;}
+
 .btn-primary{
     margin-top:20px;
     margin-bottom:20px;
