@@ -2,6 +2,7 @@
 .navigation{
     width:100%;
     overflow: hidden;
+    height:20px
 }
 
 .navigation a {
@@ -22,6 +23,11 @@ font-size: 15px;}
 
 .navigation ul li{
     text-decoration:none;
+}
+
+.navigation ul li a:hover{
+    text-decoration:none;
+    text-decoration: underline;
 }
 
 section {padding:2rem;}
@@ -121,10 +127,6 @@ footer{
 
 footer p{
     font-size:14px;
-    font-weight:200;
+    font-weight:100;
     color:white;
-}
-
-.logo{
-    margin-top:20px;
 }
