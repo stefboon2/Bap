@@ -2,13 +2,13 @@
 .navigation{
     width:100%;
     overflow: hidden;
-    height:25px;
+    height:auto
 }
 
 .navigation a {
 float: right;
 color: black;
-text-align: center;
+text-align: right;
 text-decoration: none;
 font-size: 15px;}
 
@@ -28,6 +28,10 @@ font-size: 15px;}
 .navigation ul li a:hover{
     text-decoration:none;
     text-decoration: underline;
+}
+
+.logo{
+    float:left;
 }
 
 section {padding:2rem;}
@@ -136,7 +140,3 @@ footer p{
     color:white;}
 
 
-.logo{
-    margin-top:-20px;
-    float:left;
-}
