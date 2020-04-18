@@ -1,8 +1,7 @@
 
 .navigation{
     width:100%;
-    overflow: hidden;
-    height:auto
+    height:55px
 }
 
 .navigation a {
@@ -10,7 +9,8 @@ float: right;
 color: black;
 text-align: right;
 text-decoration: none;
-font-size: 15px;}
+font-size: 15px;
+padding-bottom:2px;}
 
 .navigation a:hover {
     text-decoration: underline;
@@ -31,7 +31,7 @@ font-size: 15px;}
 }
 
 .logo{
-    float:left;
+
 }
 
 section {padding:2rem;}
