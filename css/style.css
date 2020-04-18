@@ -45,16 +45,21 @@ section {padding:2rem;}
 }
 
 .card-img-overlay{
-    background-color:rgba(0, 0, 0, 0.233);
+    background-color:none;
     border-radius:0;
 }
 
+.card-img{    
+    border-radius:0;}
+
 .card-title{
     color:white;
+    margin-top:15%;
+    font-weight:600;
+    margin-left:30px;
     text-align:center;
-    margin-top:20%;
-    font-weight:600
 }
+
 
 .card-icon{
 width:40px;
