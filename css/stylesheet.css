@@ -111,6 +111,7 @@ li{text-decoration:none;}
 .btn-primary{
     margin-top:20px;
     margin-bottom:20px;
+    margin-right:10px;
     background-color:red;
     color:white;
     padding: 13px;
