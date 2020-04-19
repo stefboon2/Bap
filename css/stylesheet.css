@@ -43,7 +43,7 @@ h2 {
 }
 
 h3 {
-    margin-top:50px;
+    margin-top:45px;
     font-family: sofia-pro, sans-serif;
     font-size: 24px;
     font-weight:700;
@@ -51,7 +51,7 @@ h3 {
 }
 
 h4{
-    margin-top:20px;
+    margin-top:30px;
     font-family: sofia-pro, sans-serif;
     font-size: 24px;
     font-weight:700;
@@ -60,7 +60,7 @@ h4{
 
 h5{
     font-family: sofia-pro, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     font-weight:700;
     color:white; 
 
